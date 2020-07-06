@@ -14,7 +14,7 @@ Provide recommendations as to the ideal location to place a STEM outreach event,
 3. ) Obtain and clean MTA turnstile data by removing outliers, and use it to analyze afternoon weekday ridership at stations nearby schools, to determine at which of these stations there is highest traffic to see the demonstrations. 
 
 ## Findings and Conclusions
-Analysis indicated that many of the lowest-performing schools are located close together, centralized in lower-income neighborhoods. Among those, the Harlem neighborhood’s at-risk schools were most numerous, closest to subway stations, and the aggregate ridership of those  stations was the highest. Students at these schools will commute from several stations on 3 main subway lines, so we recommend Sunny Futures hosts one event at the highest traffic station on each line. 
+Analysis indicated that many of the lowest-performing schools are located close together, centralized in lower-income neighborhoods. Among those, the Harlem neighborhood’s at-risk schools were most numerous, closest to subway stations, and the aggregate ridership of those  stations was the highest. Students at these schools will commute from several stations on 3 main subway lines, so we recommend Sunny Futures hosts one event at the highest traffic station on each line to reach the maximum number of at-risk students.
 
 ## Deliverables
 * [EDA](https://github.com/anterra/mta-data/blob/master/FINAL%20PROJECT.ipynb)
